@@ -198,6 +198,7 @@
 [鲁班](https://github.com/Curzibn/Luban) | Android图片压缩工具，仿微信朋友圈压缩策略,一个优秀的压缩图片框架
 [ZhihuDailyPurify ](https://github.com/izzyleung/ZhihuDailyPurify) | 知乎日报·净化
 [瓣呀](https://github.com/forezp/banya) | [瓣呀，一个基于豆瓣API仿网易音乐的开源项目（本人写的，欢迎star）](https://github.com/forezp/banya)
+[NanoAvatar](https://github.com/wpydcr/NanoAvatar) | Android 语音驱动数字人应用，包含本地 AI 推理、流式视频生成与离线录音体验的源码
 
 ## 开源库收集
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
